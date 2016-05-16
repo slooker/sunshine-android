@@ -54,11 +54,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    public FragmentManager getSupportFragmentManager() {
-        return null;
-    }
-
-    @Override
     public void onStart() {
         super.onStart();
 
